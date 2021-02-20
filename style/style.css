@@ -1,0 +1,99 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif; */
+body{
+    margin: 0 auto;
+    font-size: 0px;
+    text-align: center;
+}
+
+.wrap{
+    margin: 0 auto;
+    width: 1400px ;
+}
+
+
+.title{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: normal;
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 42px;
+}
+
+.description{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 19px;
+    margin-top: 30px;
+    color: rgba(134, 135, 139, 0.5);   
+}
+.card  {
+    height: 250px;
+    width: 350px;
+    margin-top: -250px; 
+}
+.card_title{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #333333
+}
+.card_text{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+}
+.card_light { 
+    display: inline-block;
+    margin: 0px 32px 109px 0px;  
+    
+}
+.card_keyboard{
+    display: inline-block;
+    margin: 30px 32px 109px 0px;
+ 
+}
+.card_flash{
+    display: inline-block;
+    margin: 0px 32px 109px 0px;
+}
+    
+.img_light{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.img_keyboard{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.img_flash{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.card_pictures_light{
+    padding: 18px
+}
+.card_pictures_keyboard{
+    padding: 21px 19px 21px 16px
+}
+.card_pictures_flash{
+    padding: 18px
+}
+
+/* float */
